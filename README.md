@@ -28,14 +28,7 @@
 
 ---
 
-### 📊 **GitHub Stats:**  
-<div align="center">
-  <a href="https://github.com/dannyllomota">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dannyllomota&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyllomota&layout=compact&langs_count=7&theme=blue-green"/>
-</div>  
 
----
 
 ### 🤝 **Connect with Me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dannyllo%20Mota-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dannyllo-mota-900bb9b4)  
